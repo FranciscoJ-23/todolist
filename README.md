@@ -1,3 +1,14 @@
+
+![Captura de pantalla 2025-02-04 a la(s) 11 11 07 a m](https://github.com/user-attachments/assets/c539bc0d-df2c-4ef5-af74-092d5fa13fb6)
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
